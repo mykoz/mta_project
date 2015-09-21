@@ -1,2 +1,2 @@
 # mta_project
-:whale:
+This is a great project -- You should use it!
